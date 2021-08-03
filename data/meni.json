@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naziv":"O nama",
+        "href":"index.html#prviclanak"
+    },
+    {
+        "id":2,
+        "naziv":"Tipovi kože",
+        "href":"index.html#drugiclanak1"
+    },
+    {
+        "id":3,
+        "naziv":"Proizvodi",
+        "href":"shop.html"
+    },
+    {
+        "id":4,
+        "naziv":"Kontakt",
+        "href":"index.html#forma"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "slika":{
+            "src":"images/c1.jpg",
+            "alt":"COLLISTAR"
+        },
+        "brend":"COLLISTAR",
+        "opis":"KREMA ZA DUBINSKU HIDRATACIJU LICA",
+        "mililitraza": 50,
+        "cena": 3592,
+        "tip":2
+    
+    },
+     {
+        "id":2,
+        "slika":{
+            "src":"images/c2.jpg",
+            "alt":"COLLISTAR"
+        },
+        "brend":"COLLISTAR",
+        "opis":"ULTRALIFTING KREMA ZA LICE I VRAT",
+        "mililitraza": 50,
+        "cena": 4952,
+        "tip":3
+    },
+    {
+        "id":3,
+        "slika":{
+            "src":"images/c3.jpg",
+            "alt":"SHISEIDO"
+        },
+        "brend":"SHISEIDO",
+        "opis":"WASO CLEAR MEGA HYDRATING CREAM",
+        "mililitraza": 60,
+        "cena": 6190 ,
+        "tip":1
+    },
+   
+    {
+        "id":4,
+        "slika":{
+            "src":"images/c4.jpg",
+            "alt":"GUERLAIN"
+        },
+        "brend":"GUERLAIN",
+        "opis":"ABEILLE ROYALE 19 NIGHT CREAM",
+        "mililitraza": 50,
+        "cena": 21690,
+        "tip":3
+    },
+    
+    {
+        "id":5,
+        "slika":{
+            "src":"images/c5.jpg",
+            "alt":"SENSAI"
+        },
+        "brend":"SENSAI",
+        "opis":"CELLULAR PERFORMANCE CREAM",
+        "mililitraza": 40,
+        "cena": 15590,
+        "tip":2
+    },
+    {
+        "id":6,
+        "slika":{
+            "src":"images/c6.jpg",
+            "alt":"GUERLAIN"
+        },
+        "brend":"GUERLAIN",
+        "opis":"ORCHIDEE IMPERIALE THE FLUID",
+        "mililitraza": 30,
+        "cena": 43990,
+        "tip":2
+    },
+    {
+        "id":7,
+        "slika":{
+            "src":"images/c7.jpg",
+            "alt":"SHISEIDO"
+        },
+        "brend":"SHISEIDO",
+        "opis":"LIFT DYNAMIC CREAM",
+        "mililitraza": 50,
+        "cena": 18590,
+        "tip":2
+    },
+    {
+        "id":8,
+        "slika":{
+            "src":"images/c8.jpg",
+            "alt":"BIOTHERM"
+        },
+        "brend":"BIOTHERM",
+        "opis":"BIO-AQUASOURCE EVERPLUMP NIGHT FG",
+        "mililitraza": 75,
+        "cena": 6690,
+        "tip":1
+    },
+    {
+        "id":9,
+        "slika":{
+            "src":"images/c9.jpg",
+            "alt":"COLLISTAR"
+        },
+        "brend":"COLLISTAR",
+        "opis":"TRETMAN PROTIV BORA ZA SEBOREGULACIJU",
+        "mililitraza": 50,
+        "cena":4312,
+        "tip":3
+    }
+]

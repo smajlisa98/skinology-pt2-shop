@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "naslov":"Suva koža",
+        "slika":{
+            "src":"images/dry.png",
+            "alt":"suva koza"
+        },
+        "opis": "Suva se koristi da bi se opisao tip kože koja proizvodi manje sebuma nego normalna koža. Suva koža može delovati zategnuto, grubo i izgledati beživotno."
+    },
+    {
+        "id":2,
+        "naslov":"Masna koža",
+        "slika":{
+            "src":"images/oil.png",
+            "alt":"masna koza"
+        },
+        "opis":"Masna je termin koji opisuje tip kože sa povećanim stvaranjem sebuma. Masna koža ima sjaj i vidne pore."
+    },
+    {
+        "id":3,
+        "naslov":"Kombinovana koža",
+        "slika":{
+            "src":"images/comb.png",
+            "alt":"kombinovana koza"
+        },
+        "opis":" Kombinovana koža je, kako samo ime kaže, koža koja sadrži sve tipove kože.Kod kombinovane kože su različiti tipovi kože zastupljeni u T-zoni i u predelu obraza."
+    }
+]
